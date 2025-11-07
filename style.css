@@ -55,13 +55,13 @@ body {
     display: flex;
     align-items: center;
     justify-content:flex-start;
-    gap: 370px;             /* smaller gap between text & image */
-    margin: -10px;             /* remove outside gaps */
+    gap: 125px;             /* smaller gap between text & image */
+    margin: auto;             /* remove outside gaps */
     padding:-1rem 5rem;    /* keep inside spacing */
     background: none;      /* no background image */
     height: auto;          /* ✅ force auto height */
     min-height: auto;      /* ✅ prevent stretching */
-    padding-top: 6.8rem; 
+    padding-top: 8.8rem; 
     padding-bottom: 3.8rem;/* pushes just hero content below navbar */
 }
 .hero-image img {
@@ -300,4 +300,5 @@ body {
 }
 .blue-text {
     color: #363D73;
+
 }
