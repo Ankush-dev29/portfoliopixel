@@ -55,7 +55,7 @@ body {
     display: flex;
     align-items: center;
     justify-content:flex-start;
-    gap: 125px;             /* smaller gap between text & image */
+    gap: 70px;             /* smaller gap between text & image */
     margin: auto;             /* remove outside gaps */
     padding:-1rem 5rem;    /* keep inside spacing */
     background: none;      /* no background image */
@@ -301,3 +301,4 @@ body {
 .blue-text {
     color: #363D73;
 }
+
